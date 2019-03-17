@@ -1,13 +1,15 @@
 {
-  "short_name": "My Dev Profile",
-  "name": "My Dev Profile",
-  "icons": [{
-    "src": "favicon.ico",
-    "sizes": "64x64 32x32 24x24 16x16",
-    "type": "image/x-icon"
-  }],
+  "short_name": "My Page",
+  "name": "My Landing Page",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512 256x256 192x192 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#2c3e50",
+  "background_color": "#ecf0f1"
 }
