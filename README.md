@@ -17,3 +17,15 @@ Well you never know whats coming in future, but as of now it supports :
 5. Image background
 6. 'n' number of hyperlinked social profile support
 7. Deploy the project on you GitHub account with couple of commands.
+
+### Found Interesting ?
+Please star the repo if found useful as it'll help other devs to react the content. And yes **feel free to fork, clone, play around and make your own version .**
+
+### How about Contributing ?
+**Branch out the repo and customize on top. If your changes awe us, we will for sure merge them back to the repo**. And and we will list you in contributors sections also.
+
+### Showcase your own Version !
+Have you changed something in the code to create your own version ? Feel free to share with us , we will list them in this space. 
+
+### Contributors
+[//]: contributor-faces
