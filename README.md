@@ -11,6 +11,7 @@ Actually the original repo has some static files in which you need to manually g
 Well you never know whats coming in future, but as of now it supports :
 
 1. Material Background with Dark and Light Mode toggle with a button click
+  ![](https://raw.githubusercontent.com/singhkshitij/My-Landing-Page/master/sample/toggle.PNG)
 2.  Each Dark as well as Light Mode supports 7 color combos by default. (Total -14)
 3. Background Changes as and when you click anywhere on page.
 4. Gradient Background Support with Free Flow Animation 
