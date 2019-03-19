@@ -12,7 +12,7 @@ Well you never know whats coming in future, but as of now it supports :
 
 - Material Background with Dark and Light Mode toggle with a button click
 
-  ![](https://raw.githubusercontent.com/singhkshitij/My-Landing-Page/master/sample/toggle.PNG)
+  ![](https://raw.githubusercontent.com/singhkshitij/My-Landing-Page/master/sample/diff.png)
   
 -  Each Dark as well as Light Mode supports 7 color combos by default. (Total -14)
 - Background Changes as and when you click anywhere on page.
