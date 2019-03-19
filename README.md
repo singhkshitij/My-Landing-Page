@@ -13,12 +13,22 @@ Well you never know whats coming in future, but as of now it supports :
 - Material Background with Dark and Light Mode toggle with a button click
 
   ![](https://raw.githubusercontent.com/singhkshitij/My-Landing-Page/master/sample/toggle.PNG)
+  
 -  Each Dark as well as Light Mode supports 7 color combos by default. (Total -14)
 - Background Changes as and when you click anywhere on page.
 - Gradient Background Support with Free Flow Animation 
+
+![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/gradient.PNG)
+
 - Image background
+
+![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/image.PNG)
+
 - 'n' number of hyperlinked social profile support
 - Deploy the project on you GitHub account with couple of commands.
+- Changes can be made by just changing a config file :D
+
+![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/conifgs.PNG)
 
 ## Found Interesting ?
 Please star the repo if found useful as it'll help other devs to react the content. And yes **feel free to fork, clone, play around and make your own version .**
