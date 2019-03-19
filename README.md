@@ -15,6 +15,15 @@ Well you never know whats coming in future, but as of now it supports :
   ![](https://raw.githubusercontent.com/singhkshitij/My-Landing-Page/master/sample/diff.png)
   
 -  Each Dark as well as Light Mode supports 7 color combos by default. (Total -14)
+
+### Dark Backgrounds 
+
+![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/dark.png)
+
+### Light Backgrounds
+
+![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/light.png)
+
 - Background Changes as and when you click anywhere on page.
 - Gradient Background Support with Free Flow Animation 
 
