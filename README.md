@@ -18,7 +18,7 @@ Well you never know whats coming in future, but as of now it supports :
 
 ### Dark Backgrounds 
 
-![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/dark.png)
+![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/Dark.png)
 
 ### Light Backgrounds
 
