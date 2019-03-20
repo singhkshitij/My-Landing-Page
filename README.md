@@ -40,7 +40,7 @@ Well you never know whats coming in future, but as of now it supports :
   ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/conifgs.PNG)
   
 # Documentation : 
-  [https://github.com/singhkshitij/My-Landing-Page/wiki](https://github.com/singhkshitij/My-Landing-Page/wiki)
+   [https://github.com/singhkshitij/My-Landing-Page/wiki](https://github.com/singhkshitij/My-Landing-Page/wiki)
 
 ## Found Interesting ?
 Please star the repo if found useful as it'll help other devs to react the content. And yes **feel free to fork, clone, play around and make your own version .**
