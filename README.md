@@ -41,7 +41,7 @@ Well you never know whats coming in future, but as of now it supports :
   
 ## Demo
 
-  [Live Demo](https://singhkshitij.github.io/My-Landing-Page/)
+  [https://singhkshitij.github.io/My-Landing-Page/](https://singhkshitij.github.io/My-Landing-Page/) <br/>
   Note: Click on the page to see Magic
   
 # Documentation : 
