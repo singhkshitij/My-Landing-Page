@@ -39,6 +39,11 @@ Well you never know whats coming in future, but as of now it supports :
 
   ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/conifgs.PNG)
   
+## Demo
+
+  [Live Demo](https://singhkshitij.github.io/My-Landing-Page/)
+  Note: Click on the page to see Magic
+  
 # Documentation : 
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
 
