@@ -8,6 +8,14 @@
   Minimal Portfolio Page Built with React
 </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-Passed-green.svg">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+  <img src="https://img.shields.io/travis/ReactTraining/react-router/master.svg?style=flat-square">
+  <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
+</p>
+
+
 # Documentation : 
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
 
