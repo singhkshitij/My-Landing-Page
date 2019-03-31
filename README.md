@@ -1,7 +1,6 @@
 <p style="text-align: center;"> 
-   # ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png)
-
-   Minimal Portfolio Page Built with React
+# ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png)
+Minimal Portfolio Page Built with React
 </p>
 
 # Documentation : 
