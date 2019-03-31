@@ -1,6 +1,8 @@
-# ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png)
+<p style="text-align: center;"> 
+   # ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png)
 
-Minimal Portfolio Page Built with React
+   Minimal Portfolio Page Built with React
+</p>
 
 # Documentation : 
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
@@ -15,7 +17,7 @@ One fine day i was going through GitHub and found an awesome concept on [Dinesh 
 
 Actually the original repo has some static files in which you need to manually go and edit the source code in order to get your landing page up and running. So i have bootstrapped the same content with create-react-app, i.e **REACTJS**. Now you only need to change one config file, run couple of commands and that's it. 
 
-## What features does it possess ?
+## What's Included ?
 
 Well you never know whats coming in future, but as of now it supports :
 
