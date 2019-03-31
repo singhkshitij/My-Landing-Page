@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://singhkshitij.github.io/My-Landing-Page/">
-    <img alt="react-router" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png" height="150">
+    <img alt="react-router" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png">
   </a>
 </p>
 
@@ -12,7 +12,6 @@
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
 
 ## Demo
-
   [https://singhkshitij.github.io/My-Landing-Page/](https://singhkshitij.github.io/My-Landing-Page/) <br/>
   Note: Click on the page to see Magic
 
