@@ -1,7 +1,12 @@
-<p style="text-align: center;"> 
-# ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png)
-Minimal Portfolio Page Built with React
+<p align="center">
+  <a href="https://singhkshitij.github.io/My-Landing-Page/">
+    <img alt="react-router" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png" height="150">
+  </a>
 </p>
+
+<h3 align="center">
+  Minimal Portfolio Page Built with React
+</h3>
 
 # Documentation : 
    [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
