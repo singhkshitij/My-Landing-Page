@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
   <img src="https://img.shields.io/travis/ReactTraining/react-router/master.svg?style=flat-square">
   <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
+  <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
 </p>
 
 
