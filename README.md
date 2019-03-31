@@ -1,5 +1,14 @@
-# Your Landing Page
+# ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png)
+
 Minimal Portfolio Page Built with React
+
+# Documentation : 
+   [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
+
+## Demo
+
+  [https://singhkshitij.github.io/My-Landing-Page/](https://singhkshitij.github.io/My-Landing-Page/) <br/>
+  Note: Click on the page to see Magic
 
 ## Why?
 One fine day i was going through GitHub and found an awesome concept on [Dinesh Pandiyan's Profile](https://github.com/flexdinesh/dev-landing-page) and saw that people really liked it and so did i. I really liked the minimalist approach and hence thought that i should take it a step forward. 
@@ -38,14 +47,7 @@ Well you never know whats coming in future, but as of now it supports :
 - Changes can be made by just changing a config file :D
 
   ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/conifgs.PNG)
-  
-## Demo
 
-  [https://singhkshitij.github.io/My-Landing-Page/](https://singhkshitij.github.io/My-Landing-Page/) <br/>
-  Note: Click on the page to see Magic
-  
-# Documentation : 
-   [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
 
 ## Found Interesting ?
 Please star the repo if found useful as it'll help other devs to react the content. And yes **feel free to fork, clone, play around and make your own version .**
