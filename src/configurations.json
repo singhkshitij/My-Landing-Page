@@ -5,16 +5,22 @@
   "devDesc": "All - Star Dev | Code Fanatic | Linux Hacker | Bleh",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
-  "iconsToGenerate": [
-    "fa-github",
-    "fa-twitter",
-    "fa-stack-overflow",
-    "fa-linkedin"
-  ],
-  "urlsToLink": [
-    "https://github.com/singh_kshitij",
-    "https://twitter.com/ikshitijsingh",
-    "https://stackoverflow.com/users/7088832/kshitij-singh",
-    "https://www.linkedin.com/in/ikshitijsingh/"
+  "icons": [
+    {
+      "image": "fa-github",
+      "url": "https://github.com/singh_kshitij"
+    },
+    {
+      "image": "fa-twitter",
+      "url": "https://twitter.com/ikshitijsingh"
+    },
+    {
+      "image": "fa-stack-overflow",
+      "url": "https://stackoverflow.com/users/7088832/kshitij-singh"
+    },
+    {
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/ikshitijsingh/"
+    }
   ]
 }
