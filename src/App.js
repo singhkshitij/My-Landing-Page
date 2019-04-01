@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Typist from 'react-typist';
 import './App.css';
 import Configs from './configurations.json';
-import Icons from './components/iconGenerator';
 
 class App extends Component {
   constructor(props) {
