@@ -34,8 +34,7 @@ class App extends Component {
       backgroundMode: 'default',
       backgroundIndex: 0,
       bgStyle: {},
-      iconsToGenerate: Configs.iconsToGenerate || [],
-      urlsToLink: Configs.urlsToLink || []
+      icons: Configs.icons || []
     };
   }
 
@@ -168,22 +167,31 @@ class App extends Component {
   };
 
   render() {
+    const {
+      appClass, bgStyle, backgroundMode, devIntro, devDesc, icons
+    } = this.state;
+
     return (
-      <div className={this.state.appClass} style={this.state.bgStyle}>
+      <div className={ appClass } style={ bgStyle }>
         <div className="change-mode" onClick={this.changeThemeMode} />
         <div
-          className={this.state.backgroundMode}
+          className={ backgroundMode }
           onClick={this.changeBackgroundBasedonMode}>
           <main className="App-main">
-            <h1 className="intro"> {this.state.devIntro} </h1>
+            <h1 className="intro">{ devIntro }</h1>
             <div className="tagline">
-              <Typist> {this.state.devDesc} </Typist>
+              <Typist>{ devDesc }</Typist>
             </div>
             <div className="icons-social">
-              <Icons
-                iconsToGenerate={this.state.iconsToGenerate}
-                urlsToLink={this.state.urlsToLink}
-              />
+              {icons.map(icon => (
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href={ `${icon.url}` }
+                >
+                  <i className={ `fab ${icon.image}` } />
+                </a>
+              ))}
             </div>
           </main>
         </div>
