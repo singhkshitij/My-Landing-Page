@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://singhkshitij.github.io/My-Landing-Page/">
-    <img alt="react-router" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png">
+    <img alt="My Landing Page" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png">
   </a>
 </p>
 
