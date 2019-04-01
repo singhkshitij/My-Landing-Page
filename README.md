@@ -67,7 +67,13 @@ Well you never know whats coming in future, but as of now it supports :
 Please star the repo if found useful as it'll help other devs to react the content. And yes **feel free to fork, clone, play around and make your own version .**
 
 ## How about Contributing ?
-**Branch out the repo and customize on top. If your changes awe us, we will for sure merge them back to the repo**. And and we will list you in contributors sections also.
+**Branch out the repo and customize on top. If your changes awe us, we will for sure merge them back to the repo**.
+
+Big Thanks to Our Contributors : 
+
+- [SeedBot](https://github.com/SeedBoot)
 
 ## Showcase your own Version !
 Have you changed something in the code to create your own version ? Feel free to share with us , we will list them in this space. 
+
+Please give us a 💖 star 💖 to support us. Thank you.
