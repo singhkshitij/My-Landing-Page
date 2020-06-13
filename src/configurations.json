@@ -1,11 +1,15 @@
 {
   "backgroundType": "plain",
   "plainBackgroundMode": "daylight",
-  "devIntro": "Hi, I m Kshitij Singh",
-  "devDesc": "All - Star Dev | Code Fanatic | Linux Hacker | Bleh",
+  "devIntro": "Hi, I am Kshitij Singh",
+  "devDesc": "Product Engineer | Full stack dev | Blogger | Traveler",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
   "icons": [
+    {
+      "image": "fa-wordpress",
+      "url": "https://mytrashcode.com"
+    },
     {
       "image": "fa-github",
       "url": "https://github.com/singhkshitij"
@@ -13,6 +17,10 @@
     {
       "image": "fa-twitter",
       "url": "https://twitter.com/ikshitijsingh"
+    },
+    {
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/singh_kshitij/"
     },
     {
       "image": "fa-stack-overflow",

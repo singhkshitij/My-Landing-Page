@@ -1,7 +1,7 @@
 {
-  "name": "beautiful-vcard",
-  "version": "0.1.0",
-  "homepage": "https://singhkshitij.github.io/My-Landing-Page",
+  "name": "My-Landing-Page",
+  "version": "0.1.1",
+  "homepage": "https://singhkshitij.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
@@ -25,5 +25,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
+  }
 }
