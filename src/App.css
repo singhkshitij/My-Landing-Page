@@ -74,6 +74,7 @@
   font-family: 'Font Awesome 5 Free';
   font-weight: 400;
   content: '\f185';
+  style: fas;
 }
 
 .daylight .icons-social a {
