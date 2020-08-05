@@ -1,7 +1,7 @@
 {
-  "name": "My-Landing-Page",
+  "name": "Dvir-Segal",
   "version": "0.1.1",
-  "homepage": "https://singhkshitij.github.io",
+  "homepage": "https://DeJaVoo.github.io/dvir-segal",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
