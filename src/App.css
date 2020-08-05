@@ -73,8 +73,7 @@
   color: yellow;
   font-family: 'Font Awesome 5 Free';
   font-weight: 400;
-  content: '\f185';
-  style: fas;
+  content: "fas fa-sun";
 }
 
 .daylight .icons-social a {
