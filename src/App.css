@@ -72,8 +72,8 @@
 .daylight .change-mode:before {
   color: yellow;
   font-family: 'Font Awesome 5 Free';
-  font-weight: 400;
-  content: "fas fa-sun";
+  font-weight: 900;
+  content: '\f185';
 }
 
 .daylight .icons-social a {
