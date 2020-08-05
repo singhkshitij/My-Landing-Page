@@ -29,6 +29,10 @@
     {
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/dvirsegal/"
+    },
+	{
+      "image": "fa-blog",
+      "url": "https://dvirsegal.netlify.app/"
     }
   ]
 }
