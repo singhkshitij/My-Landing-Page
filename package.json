@@ -1,12 +1,12 @@
 {
   "name": "Dvir-Segal",
-  "version": "0.1.1",
-  "homepage": "https://DeJaVoo.github.io/dvir-segal",
+  "version": "0.1.2",
+  "homepage": "https://dvirsegal.github.io/dvir-segal",
   "private": true,
   "dependencies": {
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.0",
     "react-typist": "^2.0.5"
   },
   "scripts": {
