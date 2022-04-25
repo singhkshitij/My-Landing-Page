@@ -392,3 +392,6 @@
 .full-bg-image .icons-social a svg path {
   fill: #fff;
 }
+
+.social {
+  transform: scale(1.1, 1.1) rotate(360deg);
