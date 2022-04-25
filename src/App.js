@@ -186,6 +186,7 @@ class App extends Component {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
+                  className="social"
                   href={ `${icon.url}` }
                 >
                   <i className={ `fab ${icon.image}` } />
