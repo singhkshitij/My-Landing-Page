@@ -184,6 +184,7 @@ class App extends Component {
             <div className="icons-social">
               {icons.map(icon => (
                 <a
+                aria-label={icon.image}
                   target="_blank"
                   rel="noopener noreferrer"
                   href={ `${icon.url}` }
